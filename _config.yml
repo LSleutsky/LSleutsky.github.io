@@ -5,7 +5,7 @@ email: lushsleutsky@gmail.com
 copyright_name: LSleutsky
 description: > # this means to ignore newlines until "baseurl:"
   
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: ""
 github_username:  LSleutsky
 learn_profile: LSleutsky
 email_username: lushsleutsky@gmail.com
