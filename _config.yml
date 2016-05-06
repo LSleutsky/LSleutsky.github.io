@@ -7,6 +7,7 @@ description: > # this means to ignore newlines until "baseurl:"
   
 baseurl: ""
 github_username: LSleutsky
+twitter_username: @LSleutsky
 learn_profile: LSleutsky
 email_username: lushsleutsky@gmail.com
 
