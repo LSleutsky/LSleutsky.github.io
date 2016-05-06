@@ -1,12 +1,12 @@
 # Site settings
 title: Lush Sleutsky's Blog
 header-img: img/home-bg.png
-email: lushsleutsky@gmail.com
+email: LushSleutsky@gmail.com
 copyright_name: LSleutsky
 description: > # this means to ignore newlines until "baseurl:"
   
 baseurl: ""
-github_username:  LSleutsky
+github_username: LSleutsky
 learn_profile: LSleutsky
 email_username: lushsleutsky@gmail.com
 
