@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Why Learn Software Development?
-date:   2016-05-05 19:02:48 +0000
+date:   2016-04-29 10:31:02 -0400
 ---
 
 Software Development means lots of things in the computer science world. But to bring it down to its most basic facet, software development is basically bringing your imagination to life before your very eyes. Athletes play sports; artists paint; kids play; coders, well, code.
